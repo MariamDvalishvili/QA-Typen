@@ -1,0 +1,18 @@
+QA-Typen
+
+1. Funktionale Tests - Überprüfung der Software auf Grundlage der funktionalen Anforderungen. 
+                       (Unit-Tests,Integrationstests,Systemtests)
+
+2. Smoke Test - Kurztests, um zu überprüfen, ob die grundlegenden Funktionen
+
+3. Black-Box-Testing  - Der Tester hat keine Kenntnis über die interne Funktionsweise der Software. 
+   White-Box-Testing  - Der Tester hat vollständiges Wissen über den Quellcode und testet die interne Logik und Struktur.
+   Gray-Box-Testing   - Begrenztes Wissen über die interne Funktionsweise und testet die Software sowohl intern als auch extern
+
+4. Funktionale Tests - Überprüfung der Software auf Grundlage der funktionalen Anforderungen.    
+   Nicht-funktionale Tests - Bewertung der Softwareeigenschaften, die nicht direkt mit der Funktionalität zusammenhängen.
+
+5. Positive Tests -  Tests, die mit gültigen und erwarteten Eingaben durchgeführt werden. überprüfen, ob die Software wie spezifiziert funktioniert.
+   Negative Tests - Tests mit ungültigen, unerwarteten oder fehlerhaften Eingaben. überprüfen, ob die Software angemessen auf Ausnahmen und Fehler reagiert.
+
+6.
